@@ -1,0 +1,7 @@
+﻿  renderer.cpp
+renderer.cpp(6): warning C4005: 'PI': macro redefinition
+  D:\myCodes C++\Stewart Platform Simulator\Stewart Platform Simulator\adam_math.h(5): note: see previous definition of 'PI'
+renderer.cpp(7): warning C4005: 'DEG2RAD': macro redefinition
+  D:\myCodes C++\Stewart Platform Simulator\Stewart Platform Simulator\adam_math.h(6): note: see previous definition of 'DEG2RAD'
+  Stewart Platform Simulator.vcxproj -> D:\myCodes C++\Stewart Platform Simulator\Debug\Stewart Platform Simulator.exe
+  Stewart Platform Simulator.vcxproj -> D:\myCodes C++\Stewart Platform Simulator\Debug\Stewart Platform Simulator.pdb (Full PDB)
